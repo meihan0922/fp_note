@@ -1,6 +1,6 @@
 # Currying function
 
-把接受多個參數的函數變換成接受一個單一參數就叫做 Currying。
+把接受多個參數的函數變換成接受一個單一參數的函式，並且返回一個接受剩餘參數的函式，就叫做 Currying。
 （利用閉包，保留執行環境變量的特徵，讓 currying 得以執行。）
 ![currying](./assets/currying.jpg)
 

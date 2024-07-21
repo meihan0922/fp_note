@@ -16,4 +16,4 @@ function compose(...fnArrs) {
 
 const composeFn = compose(double, pow);
 console.log(composeFn(1));
-console.log(composeFn(2));
+console.log(composeFn(3));
