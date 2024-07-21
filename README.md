@@ -58,9 +58,9 @@ FP 著重在表達邏輯，記憶體的操作和優化，不是特別著重，�
 
 ### 章節目錄
 
-- 0. [實作帕斯卡三角形 來理解 FP](./00_pascal.md)
-- 1. [currying](./01_currying.md)
-- 2. [compose & pipe](./02_composition.md)
+- 0. [實作帕斯卡三角形 來理解 FP](/blob/main/00_pascal.md)
+- 1. [currying](/blob/main/01_currying.md)
+- 2. [compose & pipe](/blob/main/02_compose.md)
 
 ### 學習資料
 
